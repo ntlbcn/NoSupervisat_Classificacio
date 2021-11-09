@@ -1,13 +1,15 @@
 # Algoritmes d'aprenentatge NO supervisat: Agrupació
 
-Objectiu general:  
+**Objectiu general:**  
 -	Aplicar correctament els algoritmes d'aprenentatge no - supervisats d'Agrupació 
 
-Objectius específics: 
+**Objectius específics:** 
 -	Entendre i interpretar correctament el K – means, Clustering jeràrquic i PCA (Principal Components Analytics) 
 
 
-Recursos
+
+**Recursos**
+
 https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 
 https://realpython.com/k-means-clustering-python/
